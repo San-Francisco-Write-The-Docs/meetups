@@ -25,9 +25,9 @@ At the event:
 Unrelated to events: 
 
 *Administer a GitHub repo. There are currently repos for:
-** storing meetup materials
-** the lone writers guide
-** this handbook
+   * storing meetup materials
+   * the lone writers guide
+   * this handbook
 
 
 
