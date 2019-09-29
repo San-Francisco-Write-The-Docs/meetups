@@ -6,7 +6,7 @@
 * Who takes minutes?
 * Are there changes to the agenda?
 * Who is in attendance?
-* Before starting business—what is the date and time of the next meeting?
+* Before starting business—what is the date and time of the next meeting? (There should be a final meeting about two weeks before any event.)
 
 **Old Business**:
 
@@ -20,6 +20,8 @@
 
 
 ## For Final Meeting to Wrap Up Event Planning 
+
+Consider pulling the plug if the speaker or venue are not available. Make arrangements, if food or promotion have not happened yet.
 
 ### The Speaker/Presenter
 
