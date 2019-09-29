@@ -12,15 +12,19 @@
 * Speaker bio
 
 ## Getting There
-* The location
+
+* The location: Mention the company sponsoring the event as well as the address
 * Access to the building (how to be admitted and find the space)
 * Parking
 * Public transit
 * Bike parking
 
 ## Other Important Matters
-* Availability of food and drinks
+
+* Indicate whether food and drinks are available
+* If there is food, mention the sponsor
 
 ## Necessary Info
+
 * Code of conduct
 * A link to our Twitter feed
