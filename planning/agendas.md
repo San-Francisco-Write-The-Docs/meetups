@@ -6,7 +6,7 @@
 * Who takes minutes?
 * Are there changes to the agenda?
 * Who is in attendance?
-* Before starting business—what is the date and time of the next meeting? (There should be a final meeting about two weeks before any event.)
+* Before starting business—what is the date and time of the next meeting? 
 
 **Old Business**:
 
@@ -18,6 +18,11 @@
 * What is the topic of the next meetup?
 * Date and time of the next meetup. 
 
+**Planning Future Meetups**: 
+
+* Choose a topic for the next meetup, directly after hosting one (or sooner)
+* Check the WTD/STC calendar before setting the date
+* Set up a final meeting two weeks before the event, to confirm that everything is done
 
 ## For Final Meeting to Wrap Up Event Planning 
 
