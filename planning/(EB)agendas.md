@@ -1,6 +1,8 @@
 
 # Templates for Agendas (the Organizers' Meeting)
 
+If you need a template for a different group (not EB-WTD) please start another template. We use these regularly as-is.
+
 ## For any meeting
 
 * Who takes minutes?
