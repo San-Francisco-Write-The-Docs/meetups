@@ -19,6 +19,10 @@ Did we finish the action items from the previous meeting?
 
 ## For Final Meeting to Wrap Up Event Planning 
 
+### The Speaker/Presenter
+* Have we checked in with the speaker or speakers, if applicable?
+* Do they need things like: microphone, slide projector, recording
+
 ### Venue
 
 * Is the venue confirmed?
@@ -33,9 +37,8 @@ Did we finish the action items from the previous meeting?
 
 * If we’re ordering the food, is it done?
 
- 
 
-Promotion
+### Promotion
 
 * Is the meetup announcement posted?
 
@@ -45,7 +48,7 @@ Promotion
 
 * What other promotion steps will we take? (write a plan that includes a meetup email, twitter, cross-posting where possible, etc)
 
-Have we checked in with the speaker or speakers, if applicable?
+
 
  
 
