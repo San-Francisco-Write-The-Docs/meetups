@@ -7,5 +7,35 @@
 | Task | Person |
 |--|--|
 |Coordinator|--|
-| Venue wrangler|--|
-| Promotions manager |--|
+|Venue wrangler|--|
+|Promotions |--|
+|Emcee|--|
+|Greeters|--|
+|Technology wrangler |--|
+|Coordinator|--|
+
+
+### February  
+
+| Task | Person |
+|--|--|
+|Coordinator|--|
+|Venue wrangler|--|
+|Promotions |--|
+|Emcee|--|
+|Greeters|--|
+|Technology wrangler |--|
+|Coordinator|--|
+
+
+### March  
+
+| Task | Person |
+|--|--|
+|Coordinator|--|
+|Venue wrangler|--|
+|Promotions |--|
+|Emcee|--|
+|Greeters|--|
+|Technology wrangler |--|
+|Coordinator|--|
