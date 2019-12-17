@@ -11,8 +11,7 @@
 |Promotions |--|
 |Emcee|--|
 |Greeters|--|
-|Technology wrangler |--|
-|Coordinator|--|
+
 
 
 ### February  
@@ -24,8 +23,7 @@
 |Promotions |--|
 |Emcee|--|
 |Greeters|--|
-|Technology wrangler |--|
-|Coordinator|--|
+
 
 
 ### March  
@@ -37,5 +35,4 @@
 |Promotions |--|
 |Emcee|--|
 |Greeters|--|
-|Technology wrangler |--|
-|Coordinator|--|
+
