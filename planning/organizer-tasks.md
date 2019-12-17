@@ -6,6 +6,7 @@
 
 | Task | Person |
 |--|--|
+|Supercoordinator|Liz Harris|
 |Coordinator|--|
 |Venue wrangler|--|
 |Promotions |--|
@@ -18,6 +19,7 @@
 
 | Task | Person |
 |--|--|
+|Supercoordinator|Liz Harris|
 |Coordinator|--|
 |Venue wrangler|--|
 |Promotions |--|
@@ -30,6 +32,7 @@
 
 | Task | Person |
 |--|--|
+|Supercoordinator|Liz Harris|
 |Coordinator|--|
 |Venue wrangler|--|
 |Promotions |--|
