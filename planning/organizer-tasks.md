@@ -1,16 +1,24 @@
 # Organizer and tasks they signed up for
 
+## Fixed Tasks
+
+GitHub and web master: Claire Lundeby
+
 ## First quarter of 2020
 
-### January 
+
+
+### January
+
+
 
 | Task | Person |
 |--|--|
 |Supercoordinator|Liz Harris|
-|Coordinator|--|
-|Venue wrangler|--|
-|Promotions |--|
-|Emcee|--|
+|Program planner|Clarence Cromwell |
+|Venue planner|Kristian |
+|Promotions |Debra Eskinazi|
+|Emcee|Claire Lundeby|
 |Greeters|--|
 
 
@@ -20,10 +28,10 @@
 | Task | Person |
 |--|--|
 |Supercoordinator|Liz Harris|
-|Coordinator|--|
-|Venue wrangler|--|
-|Promotions |--|
-|Emcee|--|
+|Program planner|Clarence Cromwell|
+|Venue planner|Kristian?|
+|Promotions |Debra Eskinazi|
+|Emcee|Maggie|
 |Greeters|--|
 
 
@@ -33,9 +41,8 @@
 | Task | Person |
 |--|--|
 |Supercoordinator|Liz Harris|
-|Coordinator|--|
-|Venue wrangler|--|
-|Promotions |--|
+|Program planner|Rebecca|
+|Venue planner|--|
+|Promotions |Debra Eskinazi|
 |Emcee|--|
 |Greeters|--|
-
