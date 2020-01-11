@@ -13,10 +13,10 @@ GitHub and web master: Claire Lundeby
 
 
 | Task | Person |
-|--|--|
+|--|--| 
 |Supercoordinator|Liz Harris|
 |Program planner|Clarence Cromwell |
-|Venue planner|Kristian |
+|Venue planner|Kristian & Debra Eskinazi |
 |Promotions |Debra Eskinazi|
 |Emcee|Claire Lundeby|
 |Greeters|--|

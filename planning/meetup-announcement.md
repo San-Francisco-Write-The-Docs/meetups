@@ -11,6 +11,9 @@
 * Timeline for the event
 * Speaker bio
 
+## The RSVP
+* A link to the Google form that we use for RSVPs
+
 ## Getting There
 
 * The location: Mention the company sponsoring the event as well as the address
