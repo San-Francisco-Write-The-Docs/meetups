@@ -1,26 +1,26 @@
 
 -----------Jan '20
-Date: _
-Locale: SF
-Venue: General Assembly?
-Program: Lightning talks
+Date: Thu, 23jan20
+Locale: EB
+Venue: San Lorenzo public library, community room
+Program: Project night (with resume workshop)
 Roles
-  Venue planner: Kristian?
+  Venue planner: Kristian, Debra
   Program planner: Clarence
-  Promotion: Debra?
+  Promotion: Debra
   Emcee: Claire
-  Greeter: Liz
-  AV wrangler: _
+  Greeter: Liz, Maggie
+  AV wrangler: _ [but we don't really need one for Project Night]
 
 -----------Feb '20
-Date: _
-Locale: EB?
-Venue: San Lorenzo or Castro Valley Library?
-Program: Project night
+Date: Thu, 20feb20
+Locale: SF
+Venue: LinkedIn SF, 222 Second Street, San Francisco, CA 94105
+Program: Lightning talks?
 Roles
-  Venue planner: _
-  Program planner: _
-  Promotion: _
+  Venue planner: Kristian (done)
+  Program planner: Clarence?
+  Promotion: Debra?
   Emcee: _
   Greeter: _
   AV wrangler: _
@@ -28,15 +28,28 @@ Roles
 -----------Mar '20
 Date: _
 Locale: SB?
-Venue: YouTube San Bruno?
-Program: Snagit?
+Venue: Google/YouTube San Bruno?
+Program: Advanced Snagit? Advanced Camtasia?
 Roles
   Program planner: Rebecca?
-  Venue planner: _
+  Venue planner: Juan Lara?
+  Promotion: _
+  Emcee: _
+  Greeter: _
+  AV wrangler: _
+
+-----------Apr '20
+Date: _
+Locale: SF?
+Venue: Google on Spear St.? Expecting confirmation via Juan Lara by ~24jan20
+Program: Erin McKean (devrel at Google) about content templates and the Good Docs Project
+Roles
+  Program planner: Clarence?
+  Venue planner: Juan Lara
   Promotion: _
   Emcee: _
   Greeter: _
   AV wrangler: _
 
 -----------later in '20
-Later in 2020: Venue: Twitch
+Venue: Twitch
