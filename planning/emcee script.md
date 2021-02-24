@@ -9,6 +9,13 @@ This is a general outline of the emcee script we've been using for virtual meetu
 
 ### At Starting Time
 1. Welcome to tonight's meetup
+1. Invite new people to raise their hands
+1. Offer recommended links in the chat:
+     - WtD Slack: https://www.writethedocs.org/slack/
+     - WtD-SFBA's website: https://writethedocs-sfbay.org/
+     - WtD-central's contributors' guide: https://github.com/writethedocs/www/blob/master/docs/guide/contributing.rst
+     - WtD-SFBA's contributors' guide: https://github.com/San-Francisco-Write-The-Docs/www/blob/master/contributing.md
+     - WtD Code of Conduct: https://www.writethedocs.org/code-of-conduct/
 1. By a show of hands if you're on video, how many here are mostly focus on technical writing for work? Development or engineering? Product? Support? Something else?
 1. Reminder that we're always looking for volunteers and speakers
 1. Introduce (speakername) and the topic, usually with the first sentence of the bio and first paragraph of their abstract. Say they will take questions (throughout, and you can raise your hand in Zoom to be called on | at the end).
