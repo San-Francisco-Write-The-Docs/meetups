@@ -11,24 +11,24 @@ Here are the most common roles organizers fill.
 
 Before the event: 
 
-* Plan events. Find speakers or programs for future meetings.
-* Find sponsors, usually for venues and food.
+* Plan events. Find speakers or programs for future meetings. That can include brainstorming with the other organizers and teaming up on the work of organizing the event. 
+<!-- * Find sponsors, usually for venues and food. -->
 * Promote the event. Write copy for Meetup.com, and posts for social media. Find images for all the above, if possible. 
-* Host the event at your workplace. If your company has space, one thing you can do is reserve it for WTD and be the host. It brings some great recognition for your company and it's free. 
+<!-- * Host the event at your workplace. If your company has space, one thing you can do is reserve it for WTD and be the host. It brings some great recognition for your company and it's free. -->
 * Plan a talk. If you have expertise, you can offer to give a presentation for one of the Bay Area locales.
 
-At the event: 
+During the event: 
 
 * Greet people. Make sure that everyone is welcomed and participates in the meeting. Provide some orientation for brand new attendees.
 * Be the spokesperson at the event. Speak at the beginning and end. Acknowledge guests and volunteers. Invite members to become organizers. Promote future events. 
-* Record the meeting. 
+<!-- * Record the meeting. -->
 * Post to Slack or other social media after the meeting. You can share your photographs and notes, if you want, or just let everyone know the event happened. Get other people to post or to share your posts on social media. 
 
 Unrelated to events: 
 
 * Administer a GitHub repo. There are currently repos for:
    * Storing meetup materials
-   * The lone writers guide
+   * The Lone Writers Guide
    * This handbook
 
 
