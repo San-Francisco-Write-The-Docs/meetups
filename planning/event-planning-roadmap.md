@@ -21,6 +21,6 @@ These roles rotate, so that, for example, the person who is Program Lead in the 
 | **Program Lead** | Get a firm commitment from the speaker  | At least 3 weeks before the event. |  |  |
 | **Program Lead** | Emcee the event | "Run the meeting" - That is, present the event's agenda/timetable; make any announcements; introduce the speaker; monitor the chat window for questions, and help run Q&A for the presenter; open the floor for job seekers or openings. We also have an emcee script for this, so you don't have to remember everything. | During the event |  |
 | **Logistics Lead** | Create the meetup.com event listing |  |  |  |
-| **Logistics Lead** | Promote the event on social media (SFBA Twitter account; Meetup; individuals' LinkedIn accounts)  |  | At least 2 weeks before event |  |
+| **Logistics Lead** | Promote the event on social media (SFBA Twitter account; Meetup; individuals' LinkedIn accounts)  | Additional tips are in [this file](../event-promotion.md) | At least 2 weeks before event |  |
 | **Logistics Lead** | Monitor the meetup.com posting to watch for questions from attendees  |  |  |  |
 | **Logistics Lead** | Send reminders or communicate last-minute changes to attendees the day of the event  |  | Last 48 hours |  |
