@@ -3,8 +3,8 @@
 ## How to Create the Posting 
 
 1. Sign into meetup.com and 
-2. Navigate to `https://www.meetup.com/Write-the-Docs-Bay-Area`
-3. Click *Create Event* and then select *Create a new event*
+2. Navigate to https://www.meetup.com/Write-the-Docs-Bay-Area
+3. Click **Create Event** and then select **Create a new event**
 4. Fill in the form, using the criteria in the next section
 
 ## What to Include in the Meetup Announcement 
@@ -52,8 +52,8 @@ Make sure all of these have been done when you save the event listing:
 
 * Sign into meetup.com 
 * Navigate to https://www.meetup.com/Write-the-Docs-Bay-Area/events/ 
-* Find the event in question (if you don't see it, click *upcoming* to make sure you're looking at new events)
-* Without opening the event, click *Manage* and then select *Edit event*
+* Find the event in question (if you don't see it, click **upcoming** to make sure you're looking at new events)
+* Without opening the event, click **Manage** and then select **Edit event**
 * Make your changes
 * Select Save Changes
 
@@ -64,7 +64,7 @@ WTD SF Bay Area has historically sent the link out by email
 
 * Sign into meetup.com 
 * Navigate to https://www.meetup.com/Write-the-Docs-Bay-Area/events/ 
-* Find the event in question (if you don't see it, click *upcoming* to make sure you're looking at new events)
-* Without opening the event, click *Manage* and then select *Contact attendees*. (You shouldn't have to change any of the checkboxes, the default setting is to email "Members who RSVPed Yes for this Meetup."
+* Find the event in question (if you don't see it, click **upcoming** to make sure you're looking at new events)
+* Without opening the event, click **Manage** and then select **Contact attendees**. (You shouldn't have to change any of the checkboxes, the default setting is to email "Members who RSVPed Yes for this Meetup."
 * Fill in the text fields for the heading and the body of the message. 
-* When ready to send, click *submit*
+* When ready to send, click **submit**
