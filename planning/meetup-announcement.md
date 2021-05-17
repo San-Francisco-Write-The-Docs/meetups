@@ -1,4 +1,4 @@
-# Create the Meetup Announcement
+# Create and Manage the Meetup Announcement
 
 ## How to Create the Posting 
 
