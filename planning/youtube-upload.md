@@ -16,5 +16,6 @@ WTD SF Bay Area records events when possible, and the videos are uploaded to our
    1. Then click **Save**
 
 IF you need more help or information: 
-      * Here's the documentation for uploading, including all fields in the upload wizard: https://support.google.com/youtube/answer/57407?hl=en&co=GENIE.Platform=Desktop#zippy=%2Cdetails%2Cvideo-elements
-      * Here's a troubleshooting page for common issues with uploads: https://support.google.com/youtube/answer/10383400?hl=en&ref_topic=2888603
+
+* Here's the documentation for uploading, including all fields in the upload wizard: https://support.google.com/youtube/answer/57407?hl=en&co=GENIE.Platform=Desktop#zippy=%2Cdetails%2Cvideo-elements
+* Here's a troubleshooting page for common issues with uploads: https://support.google.com/youtube/answer/10383400?hl=en&ref_topic=2888603
