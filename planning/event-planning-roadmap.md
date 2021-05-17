@@ -20,7 +20,7 @@ These roles rotate, so that, for example, the person who is Program Lead in the 
 | **Program Lead** | Choose a date that works for the speaker and doesn't conflict with other meetups or events  | Other events/organizations to consider are STC chapters, Write the Docs Portland conference, holidays, etc. | At least 5 weeks before the event. |  |
 | **Program Lead** | Get a firm commitment from the speaker  | At least 3 weeks before the event. |  |  |
 | **Logistics Lead** | Create the meetup.com event listing | Additional tips are in [Create and Manage the Meetup Announcement](meetup-announcement.md) | At least 2 weeks before the event. |  |
-| **Logistics Lead** | Create the listing on our website (or ask someone to do it) | https://writethedocs-sfbay.org/ |  |  |
+| **Logistics Lead** | Create the listing on [our website](https://writethedocs-sfbay.org/) (or ask someone to do it) | |  |  |
 | **Logistics Lead** | Promote the event on social media (SFBA Twitter account; Meetup; individuals' LinkedIn accounts)  | For additional tips, see [Tasks for Promoting Upcoming WTD Meetups](event-promotion.md) | At least 2 weeks before event |  |
 | **Logistics Lead** | Monitor the meetup.com posting to watch for questions from attendees  |  |  |  |
 | **Logistics Lead** | Send reminders or communicate last-minute changes to attendees the day of the event  |  | Last 48 hours |  |
