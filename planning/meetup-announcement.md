@@ -19,6 +19,8 @@
 * What to  bring (laptop?)
 * Timeline for the event
 * Speaker bio
+* Indicate whether food and drinks are available
+* If there is food, mention the sponsor
 
 
 ### Getting There
@@ -29,17 +31,22 @@
 * Public transit
 * Bike parking
 
-### Other Important Matters
+### WTD Add-opns 
 
-* Indicate whether food and drinks are available
-* If there is food, mention the sponsor
-
-### Necessary Info
-
-* Code of conduct
+* Code of conduct 
 * A link to our Twitter feed
 
-### Important checklist 
+### RSVP settings
+
+Set the time when RSVPs end to one day before the event. For online events, we need to send the Zoom link to participants, and we don't want anyone to join after that and never receive the link. For in-person events we need some kind of cut-off time because we're usually required to deliver a list of attendees to the venue. 
+
+Set the deadline for RSVPs in the meeting submission form like this: 
+
+* Go to the **Optional Settings** area all the way at the bottom of the form
+* Select **RSVP start and end time**
+* In the resulting form, set **RSVP close time** to **One day before**
+
+### Final checklist 
 
 Make sure all of these have been done when you save the event listing: 
 
